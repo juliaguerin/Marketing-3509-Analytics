@@ -5,3 +5,11 @@ This is a portfolio of Python work from MKTG 3509 class! There are a total of 11
 - [Resume](https://colab.research.google.com/drive/1RIwCKXgb2RSWnVtdU05ONxU-Yn3xV9Oq?usp=sharing)
 
 ## Table of Contents
+- 
+-
+-
+-
+-
+-
+-
+-
