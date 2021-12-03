@@ -26,4 +26,4 @@ This is a portfolio of Python work from MKTG 3509 class! There are a total of 11
 10. Module 10: Text Analysis
     - [A10: Vegas Resorts Text Minig](https://colab.research.google.com/drive/1oGgXI2iOlbd5PP_VvoX0vZY9eC8ziRqM?usp=sharing)
 11. Use GitHub to Create your Assignment Portfolio
-    - [A11: Use GitHub to Create Your Assignment Portfolio](
+    - [A11: Use GitHub to Create Your Assignment Portfolio](https://github.com/juliaguerin/Marketing-3509-Analytics/blob/main/README.md)
